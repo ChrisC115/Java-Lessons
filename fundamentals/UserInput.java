@@ -53,4 +53,17 @@ class Numbers {
 
 }
 
+// Chalenge 3
+class Circle {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        double diameter = Double.parseDouble(input.nextLine());
+
+        double Area = Math.PI * (diameter * diameter); 
+        System.out.print("The area is " + Area);
+
+}
+}
+
 }
