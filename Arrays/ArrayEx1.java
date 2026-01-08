@@ -24,8 +24,16 @@ public class ArrayEx1 {
             if (i < 9) {
                 System.out.println(score[i]);
             }
-            
         }
+        
+
+
+
+
+
+
+
+
 
         }
     }
