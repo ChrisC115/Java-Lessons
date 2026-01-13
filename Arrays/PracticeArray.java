@@ -13,7 +13,10 @@ public class PracticeArray {
             int median1 = numbers.length / 2;
             System.out.println("The Medians are " + numbers[median1] + "and " + numbers[median1 + 1]);
         } else {
-           int median2 = numbers.length 
+            int median2 = numbers.length;
+            int id2 = numbers.length / 2;
+            System.out.println("The Median number is " + median2[id2 + 1]);
+
         }
         
 
