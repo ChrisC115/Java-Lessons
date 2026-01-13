@@ -15,7 +15,7 @@ public class PracticeArray {
         } else {
             int median2 = numbers.length;
             int id2 = numbers.length / 2;
-            System.out.println("The Median number is " + median2[id2 + 1]);
+            System.out.println("The Median number is " + numbers[id2 + 1]);
 
         }
         
