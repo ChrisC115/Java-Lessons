@@ -1,4 +1,4 @@
-public class PracticeArray {
+public class JavaArrayPractice1 {
     //Challenge 1
     int[] price = new int[10];
 
