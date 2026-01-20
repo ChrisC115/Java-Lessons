@@ -3,7 +3,7 @@ public class JavaArrayPractice1 {
     int[] price = new int[10];
 
     //Challenge 2
-    int[] number = new int[20];
+    int[] number = new int[20];{
     for(int i=0; i < number.length; i++) {
         price[i] = 4;
 
@@ -24,5 +24,6 @@ public class JavaArrayPractice1 {
 
 
     }
-}}
+}
+}
 
